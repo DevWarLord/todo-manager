@@ -45,7 +45,8 @@ Todo Manager — мини-система управления задачами �
 - `completed`: вероятность выполнения
 
 Разработчик: @Askarov Adilet
-Связь: tg:@Adeke07 / gmail: adilet.askarov.2xxx@gmail.com / LinkedIn:Adilet Askarov 
+
+Связь: tg: @Adeke07 / gmail: adilet.askarov.2xxx@gmail.com / LinkedIn: Adilet Askarov 
 
 
 
