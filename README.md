@@ -55,7 +55,7 @@ Todo Manager — мини-система управления задачами �
 <img width="1280" alt="Screenshot_22" src="https://github.com/user-attachments/assets/ad62ddaf-473f-4828-8eac-d34385d5f615" />
 <img width="1280" alt="Screenshot_23" src="https://github.com/user-attachments/assets/832df57d-4d48-4d48-aee7-4e467218934c" />
 <img width="996" alt="Screenshot_24" src="https://github.com/user-attachments/assets/f0b56a75-2d01-482d-be95-56182a7521bd" />
-<img width="986" alt="Screenshot_25" src="https://github.com/user-attachments/assets/71dea241-3fd4-4bfd-8711-00897abd8d07" />
 <img width="1012" alt="Screenshot_26" src="https://github.com/user-attachments/assets/67817c7e-8116-4f72-b7fa-9d9ef2fd05bf" />
+<img width="986" alt="Screenshot_25" src="https://github.com/user-attachments/assets/71dea241-3fd4-4bfd-8711-00897abd8d07" />
 
 
